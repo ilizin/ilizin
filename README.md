@@ -1,4 +1,4 @@
-[![Alt text](portobadisco.png)]
+
 
 <h1 align="center">Hi, I'm ilio! 👋 </h1>
 
