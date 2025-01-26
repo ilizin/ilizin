@@ -29,7 +29,7 @@
 
 <h3>✨ Fun Facts</h3>
 <ul>
-<li>♥️♦️♣️♠️ I love Scala 40 and swimming🏊.</li>
+<li>♥️♦️♣️♠️ I love Scala 40.</li>
 <li>🏃🏻 I regularly do sports.</li>
 <li>📖 I enjoy reading.</li>
 <li>🎹 I'm studying piano and I enjoy playing it, especially classic music, but it's not time to perform yet :).</li>
@@ -46,6 +46,6 @@ My journey in tech has led me to work with various cutting-edge technologies and
 projects. I’m always eager to learn new technologies and programming languages.
 </p>
 <p>
-When I'm not coding, you can find me engaged in physical activities like swimming, running and doing physical exercises.
+When I'm not coding, you can find me engaged in physical activities like running, doing physical exercises o playing piano.
 </p>
 
