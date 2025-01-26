@@ -1,6 +1,6 @@
 
-<h1 style="text-align:center">Hi, I'm ilio! 👋 </h1>
-<h2 style="text-align:center">This is my page, enjoy your stay ❤️ </h2>
+<h1 style='text-align:center'>Hi, I'm ilio! 👋 </h1>
+<h2 style='text-align:center'>This is my page, enjoy your stay ❤️ </h2>
 <br/>
 
 <h3>🛠️ Languages and Tools</h3>
