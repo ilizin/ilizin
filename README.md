@@ -7,9 +7,7 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-   <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
+
 <h3>🛠️ Languages and Tools</h3>
 <p>
   <a href="https://skillicons.dev">
@@ -23,20 +21,19 @@
     <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Skills and tools"/>
   </a>
 </p>
-    </div>
+  
 
 
 
-<div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
        
 
 <h3>✨ Fun Facts</h3>
 <ul>
 <li>♥️♦️♣️♠️ I love Scala 40 and swimming🏊.</li>
-<li>🏃🏻 I regularly do sport.</li>
+<li>🏃🏻 I regularly do sports.</li>
 <li>📖 I enjoy reading.</li>
-<li>🎹 I'm studying piano and I enjoy play it, especially classic music, but it's not time to perform yet ;).</li>
-<li>I love meeting people from different countries, races and cultures.</li>
+<li>🎹 I'm studying piano and I enjoy playing it, especially classic music, but it's not time to perform yet :).</li>
+<li>👨👨🏻👨🏽👨🏿I love meeting people from different countries, races and cultures.</li>
 </ul>
 
 <h3>‍💻 About Me</h3>
@@ -51,5 +48,4 @@ projects. I’m always eager to learn new technologies and programming languages
 <p>
 When I'm not coding, you can find me engaged in physical activities like swimming, running and doing physical exercises.
 </p>
-</div>
-</div>
+
