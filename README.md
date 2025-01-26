@@ -46,6 +46,6 @@ My journey in tech has led me to work with various cutting-edge technologies and
 projects. I’m always eager to learn new technologies and programming languages.
 </p>
 <p>
-When I'm not coding, you can find me engaged in physical activities like running, doing physical exercises o playing piano.
+When I'm not coding, you can find me engaged in physical activities like running, doing physical exercises or playing piano.
 </p>
 
