@@ -28,19 +28,13 @@
 
 <h3>‍💻 About Me</h3>
 <p>
-<i>
 I am an enthusiastic and passionate software developer. My greatest strength is programming and troubleshooting, I am able to produce high-quality code quickly and solve complex problems. 
 I have worked with a broad range of technologies and programming languages and I consider myself an expert with Java.
-</i>
 </p>
 <p>
-<i>
 My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different
 projects. I’m always eager to learn new technologies and programming languages.
-</i>
 </p>
 <p>
-<i>
 When I'm not coding, you can find me engaged in physical activities like running, doing physical exercises or playing piano.
-</i>
 </p>
