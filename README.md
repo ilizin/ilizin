@@ -22,7 +22,7 @@
 <li>♥️♦️♣️♠️ I love Scala 40.</li>
 <li>🏃🏻 I regularly do sports.</li>
 <li>📖 I enjoy reading.</li>
-<li>🎹 I'm studying piano and I enjoy playing it, especially classic music, but it's not time to perform yet :).</li>
+<li>🎹 I'm studying piano and I enjoy playing it, especially classic music, but it's not time to perform yet :)</li>
 <li>👨👨🏻👨🏽👨🏿I love meeting people from different countries, races and cultures.</li>
 </ul>
 
@@ -32,8 +32,7 @@ I am an enthusiastic and passionate software developer. My greatest strength is 
 I have worked with a broad range of technologies and programming languages and I consider myself an expert with Java.
 </p>
 <p>
-My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different
-projects. I’m always eager to learn new technologies and programming languages.
+My journey in tech has led me to collaborate with amazing teams across different projects. I’m always eager to learn new technologies and programming languages.
 </p>
 <p>
 When I'm not coding, you can find me engaged in physical activities like running, doing physical exercises or playing piano.
