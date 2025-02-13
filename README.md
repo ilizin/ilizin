@@ -23,7 +23,7 @@
 <li>🏃🏻 I regularly do sports.</li>
 <li>📖 I enjoy reading.</li>
 <li>🎹 I'm studying piano and I enjoy playing it, especially classic music, but it's not time to perform yet :)</li>
-<li> My name <i>ilio</i> is the other name of the ancient <i>Troy</i> city <a>https://it.wikipedia.org/wiki/Troia</a></li>
+<li> My name <i>ilio</i> is the other name of the ancient <i>Troy</i> city <a href="https://it.wikipedia.org/wiki/Troia">https://it.wikipedia.org/wiki/Troia</a></li>
 <li>👨👨🏻👨🏽👨🏿I love meeting people from different countries, races and cultures.</li>
 </ul>
 
